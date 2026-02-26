@@ -1,0 +1,5 @@
+{
+  "name": "Proposal Vision",
+  "description": "Generate and edit romantic proposal scenes using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
